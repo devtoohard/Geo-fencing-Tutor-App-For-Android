@@ -1,0 +1,417 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:4:5-46
+		INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:13:22-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\f538a104f2d1b9fb8f6aad4c32bb6feb333a2b80\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\08897f2f0f6857ce65be63bb36348b5fe70f2016\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:16:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:18:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\f538a104f2d1b9fb8f6aad4c32bb6feb333a2b80\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\08897f2f0f6857ce65be63bb36348b5fe70f2016\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:18:22-76
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:19:19-63
+application
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:21:5-93:19
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\a1cf6eded0452780e7ed67ab07e75e9f6fdfd634\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\f538a104f2d1b9fb8f6aad4c32bb6feb333a2b80\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\5908febcaab21247e60ce2ffabd43d3459841ddb\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\08897f2f0f6857ce65be63bb36348b5fe70f2016\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\f963ffa83739959fd6f4ae774b2b8257905fa72a\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\6f37b88485b180149e8dd617431e32a841ebbe95\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\1c2479c0befb5d1ed6aa7306761aa14c614e4656\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\b69df19010328c4c43ce882c214a9e6994608a93\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.facebook.android:account-kit-sdk:4.11.0] C:\Users\Goh Chang Ming\.android\build-cache\fedc45ac7ed46537cb0270cdddbf2f97033266ff\output\AndroidManifest.xml:28:5-37:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\c73ca744f5fcc6060e67354add95c00d2305fb93\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\41aa2cfafc3346773c8140159478d4050b056d8b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\3efd2ad254b3967dc8c75a917b663c91d5104eb7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\62cd4b654c2713326fbcd8930e3daee35bfc96c0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\5bd7319045654995a2b72fde913a103ffa5f62dc\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\745c665c9131dc724d7b83060f7a042f8db18c30\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\c28fd8becea61f0d15768df87e6939bbe2fa3e6a\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\3a560ba1e7531788c8436ec17f34253511494222\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\74a307f0126e2785238f40e8cbdf8a830175369e\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\a520c644f940c181a6a7a377e4cc6ab83b5f8e96\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\fed58e81b67ba0a40a1196b7f12b15f4b97b56cd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\3cbc49fb66da7d540527ff9d40a4675cc828e5b5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\1455fa16f63468d69b470a4289a0fff0115ca72d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\cd3a8990b59b2347d13e7dbb42885c2ce2cbcdd0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\f861dc4ac9908e2e89cc8853537270bbc5b32e78\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\3f7c77888aab6cacd48f59d12b553914c6c95818\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:25:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:26:9-35
+	android:allowBackup
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:22:9-81
+activity#com.example.mycompany.mytracker.NOC.MainActivity
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:28:83-119
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:28:19-82
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:44:9-46:55
+	android:value
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:46:13-52
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:45:13-58
+meta-data#com.facebook.accountkit.ApplicationName
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:47:9-49:48
+	android:value
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:48:13-67
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:50:9-52:55
+	android:value
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:52:13-52
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:51:13-58
+meta-data#com.facebook.accountkit.ClientToken
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:53:9-55:64
+	android:value
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:55:13-61
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:54:13-63
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:56:9-58:69
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\a520c644f940c181a6a7a377e4cc6ab83b5f8e96\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:58:13-66
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:57:13-58
+activity#com.facebook.accountkit.ui.AccountKitActivity
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:60:9-63:45
+MERGED from [com.facebook.android:account-kit-sdk:4.11.0] C:\Users\Goh Chang Ming\.android\build-cache\fedc45ac7ed46537cb0270cdddbf2f97033266ff\output\AndroidManifest.xml:29:9-33:58
+	android:label
+		ADDED from [com.facebook.android:account-kit-sdk:4.11.0] C:\Users\Goh Chang Ming\.android\build-cache\fedc45ac7ed46537cb0270cdddbf2f97033266ff\output\AndroidManifest.xml:31:13-65
+	android:windowSoftInputMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.11.0] C:\Users\Goh Chang Ming\.android\build-cache\fedc45ac7ed46537cb0270cdddbf2f97033266ff\output\AndroidManifest.xml:33:13-55
+	android:theme
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:62:13-49
+		REJECTED from [com.facebook.android:account-kit-sdk:4.11.0] C:\Users\Goh Chang Ming\.android\build-cache\fedc45ac7ed46537cb0270cdddbf2f97033266ff\output\AndroidManifest.xml:32:13-52
+	tools:replace
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:63:13-42
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:61:13-73
+service#com.example.mycompany.mytracker.NOC.MyService
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:65:9-81
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:65:18-78
+service#com.example.mycompany.mytracker.NOC.GeofenceService
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:66:9-67:38
+	android:enabled
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:67:13-35
+	android:exported
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:66:85-108
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:66:18-84
+service#com.example.mycompany.mytracker.NOC.MyServiceInitial
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:68:9-105
+	android:enabled
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:68:80-102
+	android:exported
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:68:55-79
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:68:18-54
+activity#com.example.mycompany.mytracker.NOC.LoggedinActivity
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:71:9-125
+	android:screenOrientation
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:71:87-123
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:71:19-86
+activity#com.example.mycompany.mytracker.NOC.ManageMemberActivity
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:72:9-130
+	android:screenOrientation
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:72:91-127
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:72:19-90
+activity#com.example.mycompany.mytracker.NOC.MemberToTrackActivity
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:73:9-130
+	android:screenOrientation
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:73:92-128
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:73:19-91
+activity#com.example.mycompany.mytracker.NOC.DetailActivity
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:74:9-123
+	android:screenOrientation
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:74:85-121
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:74:19-84
+activity#com.example.mycompany.mytracker.NOC.LocationAlertActivity
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:75:9-130
+	android:screenOrientation
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:75:92-128
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:75:19-91
+service#com.example.mycompany.mytracker.NOC.MyFirebaseMessagingService
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:78:9-84:19
+	android:exported
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:79:13-59
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:81:13-83:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:82:17-78
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:82:25-75
+service#com.example.mycompany.mytracker.NOC.MyFirebaseInstanceIdService
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:86:9-92:19
+	android:exported
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:88:13-37
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:87:13-60
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:89:13-91:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:90:17-80
+	android:name
+		ADDED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml:90:25-77
+uses-sdk
+INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\a1cf6eded0452780e7ed67ab07e75e9f6fdfd634\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\f538a104f2d1b9fb8f6aad4c32bb6feb333a2b80\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\5908febcaab21247e60ce2ffabd43d3459841ddb\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\08897f2f0f6857ce65be63bb36348b5fe70f2016\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\0bee1e5bc2fd83e7b05c09097f91cd021fa745c2\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\c6a987c4c05b917740e14f88d2e6401513ab7c66\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\f963ffa83739959fd6f4ae774b2b8257905fa72a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\6f37b88485b180149e8dd617431e32a841ebbe95\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\d14776a19585f51ee9bf6a082a5a145606d2d33c\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\1c2479c0befb5d1ed6aa7306761aa14c614e4656\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\b69df19010328c4c43ce882c214a9e6994608a93\output\AndroidManifest.xml:3:5-42
+MERGED from [com.facebook.android:account-kit-sdk:4.11.0] C:\Users\Goh Chang Ming\.android\build-cache\fedc45ac7ed46537cb0270cdddbf2f97033266ff\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:design:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\c73ca744f5fcc6060e67354add95c00d2305fb93\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\d8a8f3b35b4d4474c8d8152b9bd6ec68f464ac04\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\41aa2cfafc3346773c8140159478d4050b056d8b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\3efd2ad254b3967dc8c75a917b663c91d5104eb7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\62cd4b654c2713326fbcd8930e3daee35bfc96c0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\5bd7319045654995a2b72fde913a103ffa5f62dc\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\d78ebf5042f1fa364eea1f843c4d1c13ad06d279\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\745c665c9131dc724d7b83060f7a042f8db18c30\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\c28fd8becea61f0d15768df87e6939bbe2fa3e6a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\3a560ba1e7531788c8436ec17f34253511494222\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\74a307f0126e2785238f40e8cbdf8a830175369e\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\a520c644f940c181a6a7a377e4cc6ab83b5f8e96\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\fed58e81b67ba0a40a1196b7f12b15f4b97b56cd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\3cbc49fb66da7d540527ff9d40a4675cc828e5b5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\1455fa16f63468d69b470a4289a0fff0115ca72d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\cd3a8990b59b2347d13e7dbb42885c2ce2cbcdd0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\f861dc4ac9908e2e89cc8853537270bbc5b32e78\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\3f7c77888aab6cacd48f59d12b553914c6c95818\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] C:\Users\Goh Chang Ming\.android\build-cache\c73ca744f5fcc6060e67354add95c00d2305fb93\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Goh Chang Ming\AndroidStudioProjects\AppFiles\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\f538a104f2d1b9fb8f6aad4c32bb6feb333a2b80\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\f538a104f2d1b9fb8f6aad4c32bb6feb333a2b80\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\f538a104f2d1b9fb8f6aad4c32bb6feb333a2b80\output\AndroidManifest.xml:21:52-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\08897f2f0f6857ce65be63bb36348b5fe70f2016\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\08897f2f0f6857ce65be63bb36348b5fe70f2016\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\08897f2f0f6857ce65be63bb36348b5fe70f2016\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\dec2cc2c44c1e55062abda550d324043ab12256f\output\AndroidManifest.xml:32:16-87
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\1c2479c0befb5d1ed6aa7306761aa14c614e4656\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\1c2479c0befb5d1ed6aa7306761aa14c614e4656\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\1c2479c0befb5d1ed6aa7306761aa14c614e4656\output\AndroidManifest.xml:23:18-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\54a4f7f70de9be7b8fdaf06e0ae127b1f084dfa6\output\AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\b69df19010328c4c43ce882c214a9e6994608a93\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\b69df19010328c4c43ce882c214a9e6994608a93\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\b69df19010328c4c43ce882c214a9e6994608a93\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\b69df19010328c4c43ce882c214a9e6994608a93\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\b69df19010328c4c43ce882c214a9e6994608a93\output\AndroidManifest.xml:6:79-124
+activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
+ADDED from [com.facebook.android:account-kit-sdk:4.11.0] C:\Users\Goh Chang Ming\.android\build-cache\fedc45ac7ed46537cb0270cdddbf2f97033266ff\output\AndroidManifest.xml:34:9-36:39
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.11.0] C:\Users\Goh Chang Ming\.android\build-cache\fedc45ac7ed46537cb0270cdddbf2f97033266ff\output\AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.11.0] C:\Users\Goh Chang Ming\.android\build-cache\fedc45ac7ed46537cb0270cdddbf2f97033266ff\output\AndroidManifest.xml:35:13-86
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\96c75e53615ff40807a2dca29a9e38f03ce517f2\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\c28fd8becea61f0d15768df87e6939bbe2fa3e6a\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\c28fd8becea61f0d15768df87e6939bbe2fa3e6a\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\c28fd8becea61f0d15768df87e6939bbe2fa3e6a\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Goh Chang Ming\.android\build-cache\c28fd8becea61f0d15768df87e6939bbe2fa3e6a\output\AndroidManifest.xml:19:19-85

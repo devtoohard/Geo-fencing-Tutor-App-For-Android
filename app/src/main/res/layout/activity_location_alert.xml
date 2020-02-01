@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_location_alert"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.example.mycompany.mytracker.NOC.LocationAlertActivity">
+
+    <include layout="@layout/toolbar" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center_horizontal"
+        >
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_location_nav"/>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/latitude"
+            android:textColor="@color/secondaryColor"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            />
+        <EditText
+            android:id="@+id/latEdit"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:inputType="numberSigned"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        >
+       <ImageView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:src="@drawable/ic_location_nav"/>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/longitude"
+            android:textColor="@color/secondaryColor"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center"
+            />
+        <EditText
+            android:id="@+id/lonEdit"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_gravity="center"
+            android:inputType="numberSigned"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:paddingTop="@dimen/activity_vertical_margin">
+        <ImageView
+            android:id="@+id/radiusImg"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/radius_t"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"/>
+
+        <TextView
+            android:layout_toRightOf="@id/radiusImg"
+            android:layout_toEndOf="@id/radiusImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:id="@+id/radiusId"
+            android:text="@string/radius"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/secondaryColor"/>
+        <TextView
+            android:id="@+id/fadeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:layout_below="@id/radiusId"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/secondaryColor"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <SeekBar
+            android:id="@+id/seekId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/fadeText"
+            android:paddingLeft="46dp"
+            android:paddingStart="46dp"
+            android:paddingRight="46dp"
+            android:paddingEnd="46dp"
+            android:max="900" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:text="@string/_100_m"
+            android:layout_below="@id/seekId"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_1_km"
+            android:layout_below="@id/seekId"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"/>
+        <Button
+            android:id="@+id/startG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/start_geofencing"
+            android:layout_alignParentBottom="true"
+            android:background="@color/secondaryColor"
+            android:textColor="@color/white"
+            />
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

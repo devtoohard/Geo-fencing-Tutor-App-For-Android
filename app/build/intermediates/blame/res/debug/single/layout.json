@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_phone_login_center.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_phone_login_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_sent_code_center.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_sent_code_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_alert.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\activity_location_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_error_center.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_error_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_verify_bottom.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_email_verify_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_sent_code_center.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_sent_code_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_action_bar.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_verified_code_center.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_verified_code_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sms.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\activity_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_sending_code_center.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_sending_code_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\draw_navigation_header.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\draw_navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_phone_country_code_item_layout.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_phone_country_code_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loggedin.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\activity_loggedin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loggedin.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\activity_loggedin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_members_to_track.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\fragment_members_to_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_login_center.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_email_login_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_login_bottom.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_email_login_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manage_member.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\activity_manage_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_confirmation_code_top.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_confirmation_code_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_row_conact.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\single_row_conact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_row_conact.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\single_row_conact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_activity_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_login_center.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_email_login_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info_window_layout.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\info_window_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_phone_login_center.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_phone_login_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_verify_bottom.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_email_verify_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_login_bottom.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_email_login_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_members_to_track.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\fragment_members_to_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_member_to_track.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\activity_member_to_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_verified_code_bottom.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_verified_code_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_member_to_track.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\activity_member_to_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_error_center.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_error_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_verify_center.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_email_verify_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_phone_login_bottom.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_phone_login_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_error_bottom.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_error_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_verify_center.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_email_verify_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_phone_login_bottom.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_phone_login_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_activity_layout.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_phone_login_text.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_phone_login_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_verifying_code_center.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_verifying_code_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_manage_members.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\fragment_manage_members.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_login_text.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_email_login_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_resend_bottom.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_resend_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_title.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_static_content.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_static_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_resend_bottom.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_resend_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_confirmation_code_input.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_confirmation_code_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_error_bottom.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_error_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_phone_country_code_item_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_phone_country_code_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_phone_country_code_layout.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_phone_country_code_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_phone_login_top.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_phone_login_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_confirmation_code_center.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_confirmation_code_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\draw_navigation_header.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\draw_navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_login_top.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_email_login_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_phone_country_code_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_phone_country_code_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_login_text.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_email_login_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_manage_members.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\fragment_manage_members.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_static_content.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_static_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sms.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\activity_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_confirmation_code_bottom.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_confirmation_code_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_phone_login_text.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_phone_login_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_title.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_verified_code_center.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_verified_code_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_email_login_top.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_email_login_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manage_member.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\activity_manage_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_alert.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\activity_location_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_phone_login_top.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_phone_login_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_confirmation_code_input.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_confirmation_code_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_verifying_code_center.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_verifying_code_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_sending_code_center.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_sending_code_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_confirmation_code_bottom.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_confirmation_code_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_confirmation_code_top.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_confirmation_code_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_verified_code_bottom.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_verified_code_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\2335b883a4c5b00e194e9488919ba90d6930ef4b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\de363720905622d4f591a46d183298599f3c35ab\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\3efd2ad254b3967dc8c75a917b663c91d5104eb7\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\c73ca744f5fcc6060e67354add95c00d2305fb93\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shawn\\Downloads\\NOC\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_action_bar.xml",
+        "source": "C:\\Users\\Shawn\\.android\\build-cache\\44f2e963f16d5bc998218a9ec129cae1630ddb78\\output\\res\\layout\\com_accountkit_fragment_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info_window_layout.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\src\\main\\res\\layout\\info_window_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Goh Chang Ming\\AndroidStudioProjects\\AppFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_accountkit_fragment_confirmation_code_center.xml",
+        "source": "C:\\Users\\Goh Chang Ming\\.android\\build-cache\\fedc45ac7ed46537cb0270cdddbf2f97033266ff\\output\\res\\layout\\com_accountkit_fragment_confirmation_code_center.xml"
+    }
+]

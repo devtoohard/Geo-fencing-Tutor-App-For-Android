@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- AdMob ad unit id -->
+    <string name="ad_banner_footer">ca-app-pub-9789704780798889/3373064657</string>
+    <string name="admob_interstitial_id">ca-app-pub-9789704780798889/1658999051</string>
+
+    <string name="facebook_app_id">1724214634555317</string>
+    <string name="account_kit_client_token">68fb1133d3bf914550f5a27aed72f53c</string>
+
+
+    <string name="app_name">GPS Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="location_alert">Location Alert</string>
+    <string name="manage_members">Manage Followers</string>
+    <string name="members_to_track">Follow Up</string>
+    <string name="share_this_app">Share</string>
+    <string name="me">Me</string>
+    <string name="nulll">Nulll</string>
+    <string name="profileimg">profileImg</string>
+    <string name="timer">timer</string>
+    <string name="location">location</string>
+    <string name="message">Message</string>
+    <string name="rates_me">Rate Me</string>
+    <string name="add">add</string>
+    <string name="goback">goBack</string>
+    <string name="refresh">refresh</string>
+    <string name="ok">ok</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="radius">Radius:</string>
+    <string name="_100_m">100 m</string>
+    <string name="_1_km">1 km</string>
+    <string name="start_geofencing">start geofencing</string>
+    <string name="send">SEND</string>
+    <string name="callbutton">callbutton</string>
+    <string name="smsbutton">smsbutton</string>
+    <string name="navigationbutton">navigationbutton</string>
+    <string name="skip">Skip</string>
+</resources>

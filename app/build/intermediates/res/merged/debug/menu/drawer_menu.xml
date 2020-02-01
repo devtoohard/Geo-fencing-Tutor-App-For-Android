@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/l_a"
+            android:icon="@drawable/ic_location_nav"
+            android:title="@string/location_alert">
+        </item>
+        <item
+            android:id="@+id/m_m"
+            android:title="@string/manage_members"
+            android:icon="@drawable/ic_memebers_nav">
+        </item>
+        <item
+            android:id="@+id/m_t"
+            android:title="@string/members_to_track"
+            android:icon="@drawable/ic_memebers_nav">
+        </item>
+
+
+    </group>
+
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">783888485326-be7t0f9ih2gibq4d8u9ijsrpjtm9lfsj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mytrackerex-b4f8e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">783888485326</string>
+    <string name="google_api_key" translatable="false">AIzaSyDLrICcxd_JhFGTjlQtQCwow0y1Pt6Rm2Y</string>
+    <string name="google_app_id" translatable="false">1:783888485326:android:4c374fda6d2d9fa7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDLrICcxd_JhFGTjlQtQCwow0y1Pt6Rm2Y</string>
+    <string name="google_storage_bucket" translatable="false">mytrackerex-b4f8e.appspot.com</string>
+</resources>
